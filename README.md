@@ -1,4 +1,6 @@
 # Lab 11 - Application de Cartographie (MapApp11)
+**Auteur :** Zaynab Bellafrikh (4IIR-G2)  
+**Institution :** EMSI - École Marocaine des Sciences de l'Ingénieur
 
 ## Description
 Cette application Android est un projet de laboratoire (Lab 11) qui permet d'afficher une carte interactive, d'identifier la position de l'utilisateur et d'ajouter des marqueurs géographiques. Elle utilise la bibliothèque **OSMDroid** pour l'affichage des cartes OpenStreetMap.
@@ -45,5 +47,5 @@ L'application demande dynamiquement au démarrage les permissions suivantes :
 3. La carte s'affichera par défaut sur Alger.
 4. Si le GPS est activé, un point bleu apparaîtra pour indiquer votre position actuelle.
 
----
-*Projet réalisé dans le cadre du Lab 11.*
+
+https://github.com/user-attachments/assets/b462acc2-73c4-4a2b-a352-94596c612ff1
